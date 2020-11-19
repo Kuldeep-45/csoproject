@@ -1,0 +1,25 @@
+.moti{
+    justify-content: center;
+    display: flex; font-size:48px;
+}
+.vide{
+    justify-content: center;
+    display: flex;
+}
+.l{
+   display: inline;
+    padding-left: 5rem;
+}
+.imagehead{ 
+    width: 80%;
+    height:450px;padding:1px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 97%; height:510px;
+  }
+  .text-design{
+      color:black;
+  }

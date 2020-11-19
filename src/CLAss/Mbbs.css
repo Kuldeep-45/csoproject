@@ -1,0 +1,46 @@
+._container {
+    position: relative;
+    font-size: 0.875rem;
+    color: #000;
+    padding: 0;
+}
+h2.tbSec2, .tbSec2 {
+    background: #fff;
+    padding: 12px 16px;
+    border-bottom: 1px solid #DFDFDF;
+    margin: 0px;
+}
+.pwa_pagecontent ._subcontainer, ._subcontainer {
+    padding: 12px 16px;
+}
+.wikkiContents {
+    font-size: 1rem;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+table{
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    border-spacing: 1px;
+    border-color: grey;
+}
+table {
+    border-spacing: 5px;
+  }
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 15px;
+  }

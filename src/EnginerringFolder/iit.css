@@ -1,0 +1,17 @@
+.img1{
+    width:900px!important;;
+    height:330px!important;
+}
+.row1{
+    display:flex;
+    padding-top:1.5rem;
+}
+.campust{
+    margin-left: 3rem;
+}
+p{
+    font-size: 1.2rem;
+    color: black;
+}
+
+

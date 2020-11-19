@@ -1,0 +1,46 @@
+.engineercont{
+   padding-bottom: 2rem!important; 
+}
+.engineercont1{
+    padding-top: 1.5rem!important;
+}
+.responsive-img1{
+    height: 620px!important;
+    width: 1350px!important;
+}
+.imgeng{
+     max-width:360px!important;
+     max-height:360px!important;
+}
+.para{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:1.7rem;
+    font-style: fantasy;color:black;  translate: rotateX(0deg);
+}
+.ty{
+    display: flex;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+.paraclass1{
+    font-size:1.5rem;
+    font-style: fantasy;color:black; 
+}
+#home2{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 620px!important;
+    width: 1350px!important;
+    background-image: url('../images/food1.jpg');
+    background-size: 100% 100%;
+    overflow: hidden;
+}
+.h{
+    font-size:2.7rem;
+  font-family: fantasy;
+  }

@@ -1,0 +1,43 @@
+body { background: #0f0f0f; }
+.para{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:1.7rem;
+    font-style: fantasy;color:black;  translate: rotateX(0deg);
+}
+#home1{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:565px;
+    width:100%;
+    background-size: 100% 100%;
+    overflow: hidden;
+}
+.h{
+    font-size:2.7rem;
+  font-family: fantasy;
+  }
+header .scrolldown a {
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    margin-left: -29px;
+    color: #fff;
+    display: block;
+    height: 42px;
+    width: 42px;
+    font-size: 42px;
+    line-height: 42px;
+    color: #fff;
+    border-radius: 100%;
+ 
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+ }
+ header .scrolldown a:hover { color: #0762f9; }
+ 

@@ -1,0 +1,43 @@
+
+  .text-info {
+    color: #f529a7!important; font-size:27px; font-weight: 400!important;
+  }
+  .text-size{
+    font-size: 20px; color:black;
+  }
+  .text-center {
+    text-align: center!important;
+  }
+  .text-uppercase {
+    text-transform: uppercase!important;
+  }
+  .pt-3, .py-3 {
+    padding-top: .2rem!important;
+  }
+  .ml-auto, .mx-auto {
+    margin-left: auto!important;
+    margin-right:auto!important ;
+    margin-top: auto!important;
+    margin-bottom:auto!important ;
+  }
+  .form-area {
+    border: .1rem solid var(--mainBlack);
+    border-radius: 5rem;
+    width: 37%!important;
+    padding: 0.8rem 0.9rem!important;
+  }
+  label {
+    display: inline-block;
+    margin-bottom: .1rem;
+  }
+  .font-weight-bold {
+    font-weight: 400!important;
+  }
+  .form1{
+   height:400px;
+   margin-top:5rem;
+  }
+  .form2{
+     height:580px;
+     margin-top:5rem;
+  }

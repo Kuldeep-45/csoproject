@@ -1,0 +1,61 @@
+.bdL .cntr {
+    width: 1200px;
+    padding: 0 10px;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+.bdL section.expertBanner, .bdL section.TCourseSec, .bdL section.TCSec, .bdL section.TESec, .bdL section.videoSection {
+    background: #f7f8f9;
+}
+.wikkiContents div, ol, ul {
+    font-size: .875rem;
+    line-height: 1.3125rem;
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.taglist {
+    list-style: none;
+    display: block;
+}
+#root a {
+    text-decoration: none;
+}
+ul.taglist li {
+    list-style: none;
+    margin: 0 10px 10px 0;
+    display: inline-block;
+    cursor: pointer;
+    max-width: 100%;
+}
+.contentSec {
+    padding: 0 12px;
+}
+.capsule--blue {
+    border-color: #1c83e7;
+    color: #1c83e7;
+}
+.capsule {
+    display: block;
+    padding: 9px 16px;
+    border-radius: 50px;
+    min-width: 50px;
+    border: 1px solid #d2d2d2;
+    line-height: .875rem;
+    font-size: .875rem;
+    max-width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    outline: none;
+    box-shadow: none;
+}
+.capsule, .MHP .tagSec {
+    background: #fff;
+}

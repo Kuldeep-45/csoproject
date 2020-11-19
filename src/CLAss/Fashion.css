@@ -1,0 +1,32 @@
+.fashiontd{
+    height: 29px; width: 561px;
+}
+.fashiontr{
+    height: 29px;
+}
+.cont1{margin-top: 1rem;}
+.pwa_pagecontent ._container {
+    position: relative;
+    font-size: 0.875rem;
+    color: #000;
+    padding: 0;
+}
+h2.tbSec2, .tbSec2 {
+    background: #fff;
+    padding: 12px 16px;
+    border-bottom: 1px solid #DFDFDF;
+    margin: 0px;
+}
+.pwa_pagecontent ._subcontainer, ._subcontainer {
+    padding: 12px 16px;
+}
+
+.wikkiContents {
+    font-size: 1rem;
+}
+.fashionth{
+    width: 1139px; height: 29px;
+}
+table, th, td {
+    border: 1px solid black;
+  }

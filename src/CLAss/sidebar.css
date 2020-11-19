@@ -1,0 +1,91 @@
+.paraclass{ 
+    font-size:1.17rem;
+    font-style: fantasy;color:black;  translate: rotateX(0deg);
+    margin-top:0rem;
+}
+#list1{
+    display:flex; padding-top:0.5rem;
+}
+.responsive-img{
+    max-width:320px !important;
+    max-height:320px !important;
+}
+.finalsportdiv8{margin-top: 5rem;}
+#list1 li{
+      padding-right:4rem;   padding-left:2rem; align-items: center;
+}
+#footerlist li a{
+    color:black; font-size: 15px; text-decoration:none;
+} .finalsportdiv8 ul{ align-items:center; justify-content:center; display: flex;}
+ .finalsportdiv8 li{margin-right:1.2rem;}
+.div12{
+    display: none;
+}
+.atheltics:hover + .div12{
+  display:block;
+  color: red;
+}
+
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+button,
+.button {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    -moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+    -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+    -ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+    transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+    border-radius: 2.5em;
+    border: 0;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 700;
+    height: 2em;
+    line-height: 2.5em;
+    min-width: 10em;
+
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
+.sportimg{
+    width: 300px !important;
+    height:240px!important;
+}
+    
+
+    input[type="submit"].special,
+    input[type="reset"].special,
+    input[type="button"].special,
+    button.special,
+    .button.special {
+        background-color: #51BAA4;
+        box-shadow: none;
+        color: #fff !important;
+    }
+
+        input[type="submit"].special:hover,
+        input[type="reset"].special:hover,
+        input[type="button"].special:hover,
+        button.special:hover,
+        .button.special:hover {
+            background-color: #63c1ae;
+        }
+
+        input[type="submit"].special:active,
+        input[type="reset"].special:active,
+        input[type="button"].special:active,
+        button.special:active,
+        .button.special:active {
+            background-color: #45ad97;
+        }
+  .funfactsdiv1{background-color: goldenrod; margin-top:5rem; height:300px!important;}
+  .funfactsdiv1 h1{ padding-top:5rem; font-size: 80px;}
+  .funfactsdiv2 p{ color:white; padding-left: 1rem; font-size:22px}
+  .funfactsdiv2 h1{ color:white; padding-left: 1rem; font-size:25px}
+

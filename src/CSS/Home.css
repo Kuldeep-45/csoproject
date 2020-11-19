@@ -1,0 +1,60 @@
+
+.hder{
+    position:sticky;  top: 0;
+    left: 0;
+    width: 100%;
+}
+#page-container {
+    position: relative;
+    min-height: 20vh;
+  }
+.footerpad{
+    padding-top:1rem;position: absolute;
+    
+    bottom: 0;
+    width: 100%;
+}
+.footer-div{
+    display: inline-flex;  width:100%;  justify-content: center; 
+}
+.footer-item{display: inline-flex;color:black;}
+.nav-link1{ 
+  display:flex; color:white; padding:1rem; font-size: 20px; text-decoration:none;
+}
+#hceight{
+    font-size:2.7rem; text-align: left; padding-left:30px; padding-top:40px;
+    font-family: fantasy; align-items: top;
+}
+#hceight1{
+    font-size:2.7rem;  padding:3px;
+    font-family: fantasy; align-items: top;
+}
+#pceight{
+    text-align: left;  padding-left:44px;
+    font-size:2.2rem;font-family: fantasy;
+    color:rgba(0, 0, 0,);   
+}
+.pceight1{
+    font-size:1rem; padding-left:3px;
+}
+#home1ceight{
+    background-color:rgb(236, 245, 245);height:350px;
+    width:77%; height:300px;
+    display: flex; flex-direction: column; background-size: 100% 100%;overflow: hidden;
+}
+#seconddiv{
+    display: flex;
+}
+#sectiondiv{background-color:rgb(236, 245, 245); height:300px; display: inline;
+    padding-right:30px;
+}
+#watchvideo{
+    font-size:2.7rem;  padding-left:15px;
+    font-family: fantasy;
+}
+.abshi{
+    text-decoration:none;
+}
+.abshi:hover{
+    text-decoration:none;
+}
